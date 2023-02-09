@@ -1,0 +1,35 @@
+id: 24470041dba34b5caa9705a8c833b6d9
+annotation_type: index
+revision: '00001'
+annotations:
+  4858ee95cb1d49a591c7e8d6df300935:
+    base: 5B18.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 11
+    - title: Preface
+      span:
+        start: 12
+        end: 389
+    - title: Verses 1-20
+      span:
+        start: 390
+        end: 8460
+    - title: Verses 21-40
+      span:
+        start: 8461
+        end: 14938
+    - title: Verses 41-60
+      span:
+        start: 14939
+        end: 22422
+    - title: Verses 61-77
+      span:
+        start: 22423
+        end: 26629
+    - title: Colophon
+      span:
+        start: 26630
+        end: 26676

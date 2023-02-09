@@ -1,0 +1,16 @@
+id: I4C7EAEA1
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:25:53.572866
+last_modified: 2023-02-10 00:25:53.573005
+source_metadata:
+  title: 'Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ'
+  language: zh
+bases:
+  5B18:
+    base_file: 5B18.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
